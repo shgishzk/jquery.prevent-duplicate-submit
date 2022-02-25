@@ -1,0 +1,1 @@
+# jquery.prevent-duplicate-submit
